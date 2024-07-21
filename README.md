@@ -1,2 +1,4 @@
-# repositorio 1
- primero repositório versionado git e github
+# Olá 
+ Esse é meu primero repositório versionado git e github
+
+repósitório criado durante uma aula 
